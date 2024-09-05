@@ -50,7 +50,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Ubuntu 22.04 LTS          
   - SSH server
 - Attacker's machine
-  - Perform nmap
+  - Perform ICMP, SSH Authentication and nmap
 
 - Checking network connectivty on hosts
 <p align="center">
