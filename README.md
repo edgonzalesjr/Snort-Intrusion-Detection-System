@@ -40,3 +40,59 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <br/>
 <b>Network Diagram</b>
 <br/>
+
+### Lab Hosts
+
+- FortiGate NGFW Eval
+  - Router and Firewall
+- Ubuntu 22.04 LTS
+  - Snort as an IDS
+- Ubuntu 22.04 LTS          
+  - SSH server
+- Attacker's machine
+  - Perform nmap
+
+- Checking network connectivty on hosts
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Fortigate NGFW status</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Snort IDS IP address and status</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Ubuntu server IP address and status</b>
+<br/>
+
+- Generate traffic
+<p align="center">
+<img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine nmap to SSH server</b>
+<br/>
+
+ - Server alert
+<p align="center">
+<img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Snort IDS nmap alert</b>
+<br/>
+
+## Outcome
+
+- Installing and configuring Snort IDS on Ubuntu 22.04 LTS. It is also possible to set it up in a Docker environment.
+- Creating and implementing custom Snort rules to detect specific network threats.
+- Managing and updating Snort configurations and rule paths effectively.
+- Verifying Snort’s functionality and performance in a live environment.
+- Utilizing command-line tools to filter and detect specific incoming traffic.
+
+## Acknowledgements
+- [Snort](https://docs.snort.org/)
+- Installation guide from [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
