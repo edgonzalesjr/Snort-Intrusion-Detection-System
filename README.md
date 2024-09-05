@@ -54,19 +54,24 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 - Checking network connectivty on hosts
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/xPpyFIL.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<p align="center">
+<img src="https://imgur.com/mO0xUSv.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Fortigate NGFW status</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/TAgKfKr.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/74boOf5.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Snort IDS IP address and status</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/ZxKW86Y.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Ubuntu server IP address and status</b>
 <br/>
