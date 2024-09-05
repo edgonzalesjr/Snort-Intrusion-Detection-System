@@ -78,16 +78,28 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/tjUO2Li.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine nmap to SSH server</b>
+<b>Perform ICMP and SSH Attempt to SSH Server</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/pGPv4S8.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine perform nmap to SSH server</b>
 <br/>
 
  - Server alert
 <p align="center">
-<img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/t1qHDYN.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Snort IDS nmap alert</b>
+<b>ICMP and SSH Authentication custom alert</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/8IJXuEP.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Using the pulledpork.rules to alert nmap attempt</b>
 <br/>
 
 ## Outcome
