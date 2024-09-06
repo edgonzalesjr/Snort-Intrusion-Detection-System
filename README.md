@@ -104,11 +104,10 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 ## Outcome
 
-- Installing and configuring Snort IDS on Ubuntu 22.04 LTS. It is also possible to set it up in a Docker environment.
-- Creating and implementing custom Snort rules to detect specific network threats.
-- Managing and updating Snort configurations and rule paths effectively.
-- Verifying Snort’s functionality and performance in a live environment.
-- Utilizing command-line tools to filter and detect specific incoming traffic.
+- Created and implemented custom and community based Snort rules to detect network threats.
+- Managed and updated Snort configurations and rule paths effectively.
+- Verified Snort’s functionality and performance in a live environment.
+- Utilized command-line tools to filter and detect network traffic.
 
 ## Acknowledgements
 - [Snort](https://docs.snort.org/)
