@@ -1,6 +1,6 @@
 ## Objective
 
-To effectively install, configure, and utilize Snort as an Intrusion Detection System (IDS) on Ubuntu 20.04, including setting up custom rules, verifying installation, and managing rule paths.
+To effectively install, configure, and utilize Snort as an Intrusion Detection System (IDS) on Ubuntu 22.04 LTS, including setting up custom and community based rules, verifying installation, and managing rule paths.
 
 ### Skills Learned
 
@@ -23,7 +23,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
   - Using command-line tools to filter and detect specific network traffic.
 
 - Configuration Management
-  - Modifying Snort configuration files to integrate pulledpork’s or community rules.
+  - Modifying Snort configuration files to integrate pulledpork’s or community based rules.
   - Ensuring proper settings and paths for rule management.
 
 ### Tools Used
