@@ -108,6 +108,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Managed and updated Snort configurations and rule paths effectively.
 - Verified Snort’s functionality and performance in a live environment.
 - Utilized command-line tools to filter and detect network traffic.
+- Alerts were triggered by the ICMP traffic, SSH authentication attempts, and nmap scans.
 
 ## Acknowledgements
 - [Snort](https://docs.snort.org/)
