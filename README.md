@@ -106,7 +106,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 - Created and implemented custom and community based Snort rules to detect network threats.
 - Managed and updated Snort configurations and rule paths effectively.
-- Verified Snort’s functionality and performance in a live environment.
+- Verified Snort’s functionality and performance in a virtual environment.
 - Utilized command-line tools to filter and detect network traffic.
 - Alerts were triggered by the ICMP traffic, SSH authentication attempts, and nmap scans.
 
