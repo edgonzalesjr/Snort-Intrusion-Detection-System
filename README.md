@@ -11,7 +11,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 - Rule Management
   - Creating and managing custom rules for detecting specific network traffic.
-  - Modifying configuration files to include and manage rule sets and paths
+  - Modifying configuration files to include and manage rule sets and paths.
   - Obtaining and integrating Oink codes for accessing additional rules.
 
 - Service Management
@@ -44,13 +44,13 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ### Lab Hosts
 
 - FortiGate NGFW Eval
-  - Router and Firewall
+  - Router and Firewall.
 - Ubuntu 22.04 LTS
-  - Snort as an IDS
+  - Snort as an IDS.
 - Ubuntu 22.04 LTS          
-  - SSH server
+  - SSH server.
 - Attacker's machine
-  - Perform ICMP, SSH Authentication and nmap
+  - Perform ICMP, SSH Authentication and nmap.
 
 - Checking network connectivty on hosts
 <p align="center">
