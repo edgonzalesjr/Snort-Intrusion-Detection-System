@@ -59,7 +59,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <p align="center">
 <img src="https://imgur.com/mO0xUSv.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Fortigate NGFW status</b>
+<b>Fortigate NGFW status.</b>
 <br/>
 
 <p align="center">
@@ -67,39 +67,39 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <br/>
 <img src="https://imgur.com/74boOf5.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Snort IDS IP address and status</b>
+<b>Snort IDS IP address and status.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/ZxKW86Y.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Ubuntu server IP address and status</b>
+<b>Ubuntu server IP address and status.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/tjUO2Li.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Perform ICMP and SSH Attempt to SSH Server</b>
+<b>Perform ICMP and SSH Attempt to SSH Server.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/pGPv4S8.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine perform nmap to SSH server</b>
+<b>Attacker's machine perform nmap to SSH server.</b>
 <br/>
 
  - Server alert
 <p align="center">
 <img src="https://imgur.com/t1qHDYN.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>ICMP and SSH Authentication custom alert</b>
+<b>ICMP and SSH Authentication custom alert.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/8IJXuEP.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Using the pulledpork.rules to alert nmap attempt</b>
+<b>Using the pulledpork.rules to alert nmap attempt.</b>
 <br/>
 
 ## Outcome
@@ -113,3 +113,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ## Acknowledgements
 - [Snort](https://docs.snort.org/)
 - Installation guide from [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
+
+## Disclaimer
+
+This portfolio is intended for educational and ethical cybersecurity research purposes only. All projects were conducted in a controlled, personal laboratory environment. The author(s) strongly condemn any illegal or unethical use of the information or code presented here. Unauthorized access to any system is strictly forbidden. The author(s) assume no responsibility for any actions taken by third parties using this information.
