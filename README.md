@@ -112,7 +112,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 ## Acknowledgements
 - [Snort](https://docs.snort.org/)
-- Installation guide from [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
+- Installation guide inspired by [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
 
 ## Disclaimer
 
