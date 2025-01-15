@@ -42,9 +42,9 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 - FortiGate NGFW Eval
   - Router and Firewall.
-- Ubuntu 22.04 LTS
+- Ubuntu Server
   - Snort as an IDS.
-- Ubuntu 22.04 LTS          
+- Ubuntu Server
   - SSH server.
 - Attacker's machine
   - Perform ping, SSH authentication and Zenmap.
