@@ -27,7 +27,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Snort3: Open-source IDS/IPS tool for network traffic analysis.
 - Fortigate NGFW Eval: Act as the Router and Firewall.
 - Ubuntu Server: Use to host the Snort IDS and SSH server.
-- Windows 10 Eval: End-user workstation.
+- Windows 10 Eval: Attacker's workstation.
 - Zenmap: The official Nmap security scanner GUI.
 
 ## Lab Information
