@@ -25,9 +25,6 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ### Tools Used
 
 - Snort3. Open-source IDS/IPS tool for network traffic analysis.
-- Hyperscan. Prerequisite for Snort 3 installation.
-- Oinkcode. Access code for Snort rules.
-- PulledPork. Tool for managing Snort rules.
 - Zenmap. The official Nmap security scanner GUI.
 
 ## Lab Information
