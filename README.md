@@ -76,20 +76,16 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <p align="center">
 <img src="https://imgur.com/tjUO2Li.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Perform ICMP and SSH Attempt to SSH Server.</b>
-<br/>
-
-<p align="center">
 <img src="https://imgur.com/pGPv4S8.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine perform nmap to SSH server.</b>
+<b>Attacker's machine perform ping, nmap and ssh attempts to SSH server.</b>
 <br/>
 
- - Server alert
+- Server alert
 <p align="center">
 <img src="https://imgur.com/t1qHDYN.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>ICMP and SSH Authentication custom alert.</b>
+<b>Ping and SSH Authentication custom alert.</b>
 <br/>
 
 <p align="center">
