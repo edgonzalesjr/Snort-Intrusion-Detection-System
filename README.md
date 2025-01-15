@@ -53,7 +53,6 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <p align="center">
 <img src="https://imgur.com/xPpyFIL.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<p align="center">
 <img src="https://imgur.com/mO0xUSv.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Fortigate NGFW status.</b>
