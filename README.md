@@ -46,7 +46,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Ubuntu 22.04 LTS          
   - SSH server.
 - Attacker's machine
-  - Perform ICMP, SSH Authentication and nmap.
+  - Perform ping, SSH authentication and nmap using Zenmap.
 
 ## Practical Exercises
 
@@ -69,7 +69,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <p align="center">
 <img src="https://imgur.com/ZxKW86Y.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Ubuntu server IP address and status.</b>
+<b>SSH server IP address and status.</b>
 <br/>
 
 - Generate traffic
@@ -78,7 +78,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <br/>
 <img src="https://imgur.com/pGPv4S8.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine perform ping, nmap and ssh attempts to SSH server.</b>
+<b>Attacker's machine perform ping, nmap using Zenmap and SSH authentication attempts to SSH server.</b>
 <br/>
 
 - Server alert
