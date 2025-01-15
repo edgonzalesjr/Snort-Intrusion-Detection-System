@@ -48,7 +48,8 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Attacker's machine
   - Perform ICMP, SSH Authentication and nmap.
 
-- Checking network connectivty on hosts
+## Practical Exercises
+
 <p align="center">
 <img src="https://imgur.com/xPpyFIL.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
