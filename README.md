@@ -28,6 +28,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Hyperscan. Prerequisite for Snort 3 installation.
 - Oinkcode. Access code for Snort rules.
 - PulledPork. Tool for managing Snort rules.
+- Zenmap. The official Nmap security scanner GUI.
 
 ## Lab Information
 
@@ -46,7 +47,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Ubuntu 22.04 LTS          
   - SSH server.
 - Attacker's machine
-  - Perform ping, SSH authentication and nmap using Zenmap.
+  - Perform ping, SSH authentication and Zenmap.
 
 ## Practical Exercises
 
@@ -78,7 +79,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <br/>
 <img src="https://imgur.com/pGPv4S8.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine perform ping, nmap using Zenmap and SSH authentication attempts to SSH server.</b>
+<b>Attacker's machine perform ping, Zenmap and SSH authentication attempts to SSH server.</b>
 <br/>
 
 - Server alert
@@ -100,11 +101,14 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 - Managed and updated Snort configurations and rule paths effectively.
 - Verified Snort’s functionality and performance in a virtual environment.
 - Utilized command-line tools to filter and detect network traffic.
-- Alerts were triggered by the ICMP traffic, SSH authentication attempts, and nmap scans.
+- Alerts were triggered by the Ping traffic, SSH authentication attempts, and Zenmap scans.
 
 ## Acknowledgements
-- [Snort](https://docs.snort.org/)
-- Installation guide inspired by [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
+
+This project combines ideas and methods from various sources, such as the installation guide by MyDFIR and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+ - [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
+ - [Snort](https://docs.snort.org/)
+ - [Zenmap](https://nmap.org/zenmap/)
 
 ## Disclaimer
 
