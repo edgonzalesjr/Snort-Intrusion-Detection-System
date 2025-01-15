@@ -5,7 +5,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ### Skills Learned
 
 - Installation and Configuration
-  - Installing Snort 3 on Ubuntu 22.04 LTS.
+  - Installing Snort 3 on Ubuntu Server.
   - Updating shared libraries and installing prerequisites such as hyperscan.
   - Troubleshooting of installation, setup and configuration issues.
 - Rule Management
