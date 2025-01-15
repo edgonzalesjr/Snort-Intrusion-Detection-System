@@ -1,6 +1,6 @@
 ## Objective
 
-To effectively install, configure, and utilize Snort as an Intrusion Detection System (IDS) on Ubuntu Server, including setting up custom and community based rules, verifying installation, and managing rule paths.
+To effectively install, configure, and utilize Snort as an Intrusion Detection System (IDS), including setting up custom and community based rules, verifying installation, and managing rule paths.
 
 ### Skills Learned
 
