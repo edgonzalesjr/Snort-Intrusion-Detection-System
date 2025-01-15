@@ -24,8 +24,11 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 ### Tools Used
 
-- Snort3. Open-source IDS/IPS tool for network traffic analysis.
-- Zenmap. The official Nmap security scanner GUI.
+- Snort3: Open-source IDS/IPS tool for network traffic analysis.
+- Fortigate NGFW Eval: Act as the Router and Firewall.
+- Ubuntu Server: Use to host the Snort IDS and SSH server.
+- Windows 10 Eval: End-user workstation.
+- Zenmap: The official Nmap security scanner GUI.
 
 ## Lab Information
 
@@ -105,8 +108,11 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 This project combines ideas and methods from various sources, such as the installation guide by MyDFIR and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
  - [Snort](https://docs.snort.org/)
+ - [Fortigate NGFW Eval]()
+ - [Ubuntu Server](https://ubuntu.com/download/server)
+ - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
  - [Zenmap](https://nmap.org/zenmap/)
 
 ## Disclaimer
 
-The projects and activities within this portfolio are for educational and ethical cybersecurity research purposes only. All work was performed in controlled environments, including isolated, personally owned laboratories, subscription-based cloud environments, and through engagement with online cybersecurity learning platforms. Any cloud-based activities and participation in online learning platforms were conducted in full compliance with their respective terms of service and acceptable use policies. These projects should not be used for any illegal or unethical activities. Unauthorized access to any computer system or network is strictly prohibited. The author(s) are not responsible for any misuse of the information or code provided.
+The sole goals of the projects and activities here are for education and ethical cybersecurity research. All work was conducted in controlled environments, such as paid cloud spaces, private labs, and online cybersecurity education platforms. Online learning and cloud tasks adhered closely to all usage guidelines. Never use these projects for improper or unlawful purposes. It is always prohibited to break into any computer system or network. Any misuse of the provided information or code is not the responsibility of the author or authors. 
