@@ -32,7 +32,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ## Lab Information
 
 <p align="center">
-<img src="https://imgur.com/8rTkja3.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/8rTkja3.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Network Diagram</b>
 <br/>
