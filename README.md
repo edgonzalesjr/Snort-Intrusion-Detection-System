@@ -108,7 +108,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 This project combines ideas and methods from various sources, such as the installation guide by MyDFIR and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
  - [Snort](https://docs.snort.org/)
- - [Fortigate NGFW Eval]()
+ - [Fortigate NGFW Eval](https://www.fortinet.com/support/product-downloads)
  - [Ubuntu Server](https://ubuntu.com/download/server)
  - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
  - [Zenmap](https://nmap.org/zenmap/)
