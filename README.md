@@ -51,50 +51,50 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 ## Practical Exercises
 
 <p align="center">
-<img src="https://imgur.com/xPpyFIL.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/xPpyFIL.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <p align="center">
-<img src="https://imgur.com/mO0xUSv.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/mO0xUSv.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Fortigate NGFW status.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/TAgKfKr.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/TAgKfKr.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/74boOf5.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/74boOf5.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Snort IDS IP address and status.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/ZxKW86Y.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/ZxKW86Y.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Ubuntu server IP address and status.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/tjUO2Li.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/tjUO2Li.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Perform ICMP and SSH Attempt to SSH Server.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/pGPv4S8.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/pGPv4S8.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine perform nmap to SSH server.</b>
 <br/>
 
  - Server alert
 <p align="center">
-<img src="https://imgur.com/t1qHDYN.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/t1qHDYN.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>ICMP and SSH Authentication custom alert.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/8IJXuEP.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/8IJXuEP.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
 <b>Using the pulledpork.rules to alert nmap attempt.</b>
 <br/>
