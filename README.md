@@ -82,7 +82,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 <b>Attacker's machine perform ping, Zenmap and SSH authentication attempts to SSH server.</b>
 <br/>
 
-- Server alert
+- Snort IDS alert
 <p align="center">
 <img src="https://imgur.com/t1qHDYN.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
