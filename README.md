@@ -24,6 +24,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 ### Tools Used
 
+- VMWare Workstation: A Type 2 hypervisor runs on x64 Windows and Linux, allowing multiple virtual machines on one physical computer.
 - Snort3: Open-source IDS/IPS tool for network traffic analysis.
 - Fortigate NGFW Eval: Act as the Router and Firewall.
 - Ubuntu Server: Use to host the Snort IDS and SSH server.
@@ -107,6 +108,7 @@ To effectively install, configure, and utilize Snort as an Intrusion Detection S
 
 This project combines ideas and methods from various sources, such as the installation guide by MyDFIR and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/snort3-install-guide)
+ - [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
  - [Snort](https://docs.snort.org/)
  - [Fortigate NGFW Eval](https://www.fortinet.com/support/product-downloads)
  - [Ubuntu Server](https://ubuntu.com/download/server)
